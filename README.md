@@ -55,6 +55,9 @@ python prepare_visualization.py
 3. Els resultats es desaran com a:
    - **CSV** i **Excel** dins la carpeta `output/`.
 
+## Visualització
+La visualització creada a partir de l'eina de **Flourish.studio** està disponible al següent enllaç web: https://public.flourish.studio/story/2820699/
+
 ## Llicència
 
 Aquest projecte està llicenciat sota la **Llicència MIT**. Consulta el fitxer `LICENSE` per a més detalls.
