@@ -1,6 +1,6 @@
 # PRA2_datavis
 
-Aquest repositori conté el projecte **PRA2** de l'assignatura de *Visualització de dades*. El projecte inclou l'anàlisi i visualitzacions interactives creades amb dades de les societats laborals catalanes entre octubre de 2023 i 2024.
+Aquest repositori conté el projecte **PRA2** de l'assignatura de *Visualització de dades* del màster universitat de Ciència de Dades de la UOC. El projecte inclou l'anàlisi i visualitzacions interactives creades amb dades de les societats laborals catalanes entre octubre de 2023 i 2024.
 
 ## Estructura del repositori
 
@@ -9,16 +9,16 @@ PRA2_datavis/
 |
 ├── data/                    # Datasets utilitzats per a l'anàlisi
 ├── output/                  # Resultats generats (CSV i Excel)
-├── logo/                    # Recursos visuals, com el logo
-├── prepare_visualization.py # Script Python per preparar les dades
-├── data_preparation.xlsx    # Fitxer Excel amb els resultats processats
+├── logo/                    # Recursos visuals, com el logo utilitzat
+├── prepare_visualization.py # Script Python per preparar i preprocessar les dades
+├── data_preparation.xlsx    # Fitxer Excel amb els resultats processats i resum de les tasques
 └── README.md                # Documentació principal del projecte
 ```
 
 ### Descripció dels continguts
 
 1. **`data/`**
-   - Aquesta carpeta conté els datasets utilitzats per a la preparació de les visualitzacions. Els fitxers inclouen informació sobre el capital social, sectors econòmics i composició de socis segons el gènere.
+   - Aquesta carpeta conté els datasets utilitzats per a la preparació de les visualitzacions obtinguts del portal de transparència de le Generalitat de Catalunya (https://analisi.transparenciacatalunya.cat/Treball/Societats-laborals-en-actiu/xfiz-zxak/about_data)
 
 2. **`output/`**
    - Carpeta on es desaran els resultats processats, tant en format **CSV** com **Excel**.
@@ -62,4 +62,4 @@ Aquest projecte està llicenciat sota la **Llicència MIT**. Consulta el fitxer 
 ---
 
 ### Autor
-Aquest projecte ha estat desenvolupat com a part de l'assignatura de *Visualització de dades*. Si tens qualsevol dubte o consulta, no dubtis a contactar.
+Aquest projecte ha estat desenvolupat com a part de l'assignatura de *Visualització de dades*. 
